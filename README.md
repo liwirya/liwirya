@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/b2/d1/54/b2d1547432d56e6d1c769493638202d6.jpg" width="25%" align="right" style="border-radius: 20px;" />
+<img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="25%" align="right" style="border-radius: 20px;" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Liwirya;Self-taught+Developer;Focus+on+Back-End+%26+Network;Linux+Ubuntu+User" />
 
@@ -8,7 +8,7 @@
 
 <pre align="left">
     📍 Indonesia • High School Student
-    🐧 OS: Ubuntu Linux • Termux
+    🐧 OS: Ubuntu • Termux
     🚀 Node.js • Python • Bash
     🌐 Network Enthusiast
     ⚡ "Learning by Doing"
