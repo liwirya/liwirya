@@ -1,92 +1,78 @@
 <div align="center">
+  
+<img src="https://img1.pixhost.to/images/11382/680033942_wanz.jpg" width="22%" align="right" style="border-radius: 50%;" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Liwirya&fontSize=80&animation=fadeIn&fontAlignY=35&desc=High%20School%20Student%20%7C%20Back-End%20Dev%20%7C%20Network%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&repeat=true&random=false&width=800&lines=Hi+There!+I'm+Liwirya;High+School+Student+%F0%9F%87%AE%F0%9F%87%A9;Focus+on+Back-End+%26+Network;Self-Taught+Developer" width="75%" />
 
-  <br>
+<br><br>
 
-  ### 👨‍💻 About Me
+<pre align="left">
+    🚀 High School Student • Self-Taught
+    💻 Back-End • Networking • Bot Dev
+    🔧 Termux • Localhost • VS Code
+    🎮 Gamer • Logic • System Admin
+    🇮🇩 Jakarta, Indonesia
+</pre>
 
-  <p align="center">
-    I am a <b>High School Student</b> from <b>Indonesia 🇮🇩</b>.<br>
-    I am a self-taught developer with a strong passion for <b>Back-End Development</b> and <b>Network Engineering</b>.<br>
-    I love building systems, managing servers, and exploring how the internet works.
-  </p>
+<br>
 
-  <br>
+<div align="left">
+  
+[![](https://img.shields.io/badge/Python-2d2d2d?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/JavaScript-2d2d2d?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/)
+[![](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/C++-2d2d2d?style=flat-square&logo=cplusplus&logoColor=white)](https://cplusplus.com/)
+<br>
+[![](https://img.shields.io/badge/Linux-2d2d2d?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![](https://img.shields.io/badge/Bash_Shell-2d2d2d?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![](https://img.shields.io/badge/AWS-2d2d2d?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![](https://img.shields.io/badge/Git-2d2d2d?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-  <p align="left">
-    🔭 <b>I’m currently working on:</b> Web Automation & Telegram/WhatsApp Bots.<br>
-    🌱 <b>I’m currently learning:</b> Advanced Networking & Cloud Infrastructure.<br>
-    ⚡ <b>Fun fact:</b> I code mostly on Localhost/Termux and I'm a gamer.
-  </p>
+</div>
 
-  <br>
+</div>
 
-  <h3>🛠️ Languages and Tools</h3>
+<br>
 
-  <p><b>Cloud & Networking</b></p>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Networking-Linux-black?style=for-the-badge&logo=linux" alt="Linux"/>
-  </a>
+```javascript
+/* Wira Liwirya (Liwirya)
+    ──────────────────────
+    Student • Developer • Network Enthusiast
+*/
 
-  <br>
+(async () => {
+  const profile = {
+    name: "Liwirya",
+    role: "High School Student",
+    location: "Indonesia",
+    learning_style: "Self-Taught (Otodidak)"
+  };
 
-  <p><b>Languages</b></p>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/>
-  </a>
+  const skills = {
+    core: ["Back-End", "Network Engineering", "Bot Development"],
+    languages: ["Python", "JavaScript", "TypeScript", "C++"],
+    environment: ["Termux (Android)", "Localhost", "Linux Server"]
+  };
 
-  <br>
+  const current_status = {
+    project: "Bot Automation & API Integration",
+    mood: "Coffee & Code ☕",
+    goal: "Mastering System Architecture"
+  };
 
-  <p><b>Database & Tools</b></p>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
+  console.log(`Welcome to my profile! I build things on ${skills.environment[0]}.`);
+  
+  await new Promise(r => setTimeout(r, 1000));
+})();
+```
 
-  <br><br>
+<div align="center">
+<a href="https://www.google.com/search?q=https://github.com/liwirya">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Check_My-Repositories-2d2d2d%3Fstyle%3Dflat-square%26labelColor%3D2d2d2d%26logo%3Dgithub%26logoColor%3Dwhite" />
+</a>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dliwirya%26color%3D2d2d2d%26style%3Dflat-square%26label%3DProfile%2BViews" />
+<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/liwirya%3Fcolor%3D2d2d2d%26style%3Dflat-square%26label%3DFollowers" />
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=liwirya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liwirya&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  </div>
 
-  <br>
-
-  <h3>📫 Connect with me</h3>
-  <p align="center">
-    <a href="https://instagram.com/mynameisliwirya" target="blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://discord.com/users/USERNAME_DISCORD_LU" target="blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-    <a href="mailto:EMAIL_LU@GMAIL.COM" target="blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </p>
-
+<sub>© 2026 Liwirya</sub>
 </div>
