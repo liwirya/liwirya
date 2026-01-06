@@ -1,14 +1,14 @@
 <div align="center">
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=500&lines=Hi+there!+I'm+Liwirya;Network+%26+Back-End+Dev;Linux+Ubuntu+User;Coffee+driven+coder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=500&lines=Hi!+I'm+Liwirya;Network+%26+Back-End+Dev;Coffee+Lover" />
   <img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="30%" align="right" style="border-radius: 20px; margin-left: 20px;" />
 </div>
 
 <p align="left">
   <code>📍 Indonesia • High School Student</code><br>
-  <code>🐧 OS: Ubuntu • Termux</code><br>
-  <code>🚀 Node.js • Python • Bash</code><br>
+  <code>🐧 OS: Ubuntu And Debian</code><br>
+  <code>🚀 Node.js • Python • C++ • Bash</code><br>
   <code>🌐 Network Enthusiast</code><br>
   <code>⚡ "Learning by Doing"</code>
 </p>
@@ -25,6 +25,9 @@
   </a>
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/Shell-2d2d2d?style=flat-square&logo=gnu-bash&logoColor=white" />
+  </a>
+  <a href="https://www.debian.org/">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
   </a>
 </p>
 
@@ -43,18 +46,16 @@
 
 const me = {
     name: "Liwirya",
-    status: "Student (SMA)",
-    code_editor: "VS Code & Nano",
+    status: "Student At SMA Budaya",
+    code_editor: "VS Code",
     
-    // Mainan sehari-hari
     system: {
-        os: "Ubuntu Linux",
+        os: "Ubuntu And Debian",
         mobile: "Termux (Android)"
     },
 
-    // Skill yg lagi diasah
     skills: {
-        backend: ["Node.js", "Express", "Python"],
+        backend: ["Node.js", "Express", "Python", "C++", "Bash"],
         network: ["SSH", "VPS Management", "Subnetting"]
     },
 
