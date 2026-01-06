@@ -1,8 +1,9 @@
 <div align="center">
 
+<img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="30%" align="right" style="border-radius: 20px; margin-left: 20px;" />
+
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=500&lines=Hi!+I'm+Liwirya;Network+%26+Back-End+Dev;Coffee+Lover" />
-  <img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="30%" align="right" style="border-radius: 20px; margin-left: 20px;" />
 </div>
 
 <p align="left">
@@ -27,7 +28,7 @@
     <img src="https://img.shields.io/badge/Shell-2d2d2d?style=flat-square&logo=gnu-bash&logoColor=white" />
   </a>
   <a href="https://www.debian.org/">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-2d2d2d?style=flat-square&logo=debian&logoColor=white" />
   </a>
 </p>
 
