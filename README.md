@@ -69,5 +69,6 @@ console.log(`Welcome to ${me.name}'s Profile!`);
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Profile-181717%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dliwirya%26color%3D181717%26style%3Dflat-square%26label%3DVisitors" />
+<br>
 <sub>© 2026 Liwirya.</sub>
 </div>
