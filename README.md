@@ -1,50 +1,34 @@
-<div align="center">
-
-<img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="25%" align="right" style="border-radius: 20px;" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Liwirya;Self-taught+Developer;Focus+on+Back-End+%26+Network;Linux+Ubuntu+User" />
-
-<br>
-
-<pre align="left">
-    📍 Indonesia • High School Student
-    🐧 OS: Ubuntu • Termux
-    🚀 Node.js • Python • Bash
-    🌐 Network Enthusiast
-    ⚡ "Learning by Doing"
-</pre>
-
-<br>
-
-<div align="left">
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-2d2d2d?style=flat-square&logo=nodedotjs&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-2d2d2d?style=flat-square&logo=python&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-2d2d2d?style=flat-square&logo=javascript&logoColor=white" />
-  </a>
-  
-  <br>
-  
-  <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-2d2d2d?style=flat-square&logo=ubuntu&logoColor=E95420" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/Shell_Script-2d2d2d?style=flat-square&logo=gnu-bash&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-2d2d2d?style=flat-square&logo=git&logoColor=white" />
-  </a>
-</div>
-
-</div>
+<table>
+  <tr>
+    <td width="65%" valign="center">
+      <h1>Hi there! I'm Liwirya</h1>
+      <br>
+      <ul>
+        <li>📍 <b>Indonesia</b> • High School Student</li>
+        <li>🐧 <b>OS:</b> Ubuntu • Termux</li>
+        <li>🚀 <b>Stack:</b> Node.js • Python • Bash</li>
+        <li>🌐 <b>Role:</b> Network Enthusiast</li>
+        <li>⚡ "Learning by Doing"</li>
+      </ul>
+      <br>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </p>
+    </td>
+    
+    <td width="35%" valign="center">
+      <div align="center">
+        <img src="https://i.pinimg.com/736x/b2/d1/54/b2d1547432d56e6d1c769493638202d6.jpg" width="100%" style="border-radius: 15px;" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
-
----
 
 ```javascript
 /**
@@ -56,31 +40,25 @@
 const me = {
     name: "Liwirya",
     status: "Student (SMA)",
-    code_editor: "VS Code & Nano",
     
-    // Environment utama kamu
-    system: {
-        os: "Ubuntu Linux",
+    // Tempat ngoding lu bang
+    environment: {
+        desktop: "Ubuntu Linux",
         mobile: "Termux (Android)"
     },
 
-    // Fokus saat ini
+    // Skill yang lagi diasah
     skills: {
         backend: ["Node.js", "Express", "Python"],
-        network: ["SSH", "VPS Management", "Subnetting"]
+        network: ["SSH", "VPS Config", "Subnetting"]
     },
 
     current_goal: "Mastering Backend Architecture"
 };
 
-console.log(`Welcome to ${me.name}'s Profile!`);
+console.log(`Welcome to ${me.name}'s World!`);
 ```
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/liwirya">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Profile-2d2d2d%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dliwirya%26color%3D2d2d2d%26style%3Dflat-square%26label%3DVisitors" />
-    <br>
-<sub>© 2026 Liwirya.</sub>
+<sub style="color: gray;">© 2026 Liwirya • Built with Node.js & Coffee ☕</sub>
 </div>
