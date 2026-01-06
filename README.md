@@ -30,6 +30,12 @@
   <a href="https://www.debian.org/">
   <img src="https://img.shields.io/badge/Debian-2d2d2d?style=flat-square&logo=debian&logoColor=white" />
   </a>
+  <a href="https://expressjs.com/">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</a>
 </p>
 
 </div>
