@@ -1,8 +1,8 @@
 <div align="center">
 
 <div align="left">
-  <img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="30%" align="right" style="border-radius: 20px; margin-left: 20px;" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=500&lines=Hi+there!+I'm+Liwirya;Network+%26+Back-End+Dev;Linux+Ubuntu+User;Coffee+driven+coder" />
+  <img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="30%" align="right" style="border-radius: 20px; margin-left: 20px;" />
 </div>
 
 <p align="left">
