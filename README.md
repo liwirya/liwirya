@@ -75,6 +75,7 @@ console.log(`Welcome to ${me.name}'s Profile!`);
 ```
 
 <div align="center">
+<p>🔥 Stats 🔥</p>
 <a href="https://github.com/liwirya">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=liwirya&theme=tokyo-night&hide_border=false" alt="Liwirya's activity graph" />
 </a>
