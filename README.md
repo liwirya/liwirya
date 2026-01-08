@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="28%" align="right" style="border-radius: 15px; margin-left: 20px; margin-bottom: 20px;" />
+<img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="28%" align="right" style="border-radius: 15px; margin-left: 20px; margin-bottom: 20px;" alt="Profile Pic" />
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=450&lines=Hi!+I'm+Liwirya;Network+%26+Back-End+Dev;Student+at+SMA+Budaya" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=450&lines=Hi+there!+I'm+Liwirya;Network+%26+Back-End+Dev;Student+at+SMA+Budaya" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,26 +18,26 @@
 
 <p align="left">
   <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-232323?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-232323?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   </a>
   <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/Express.js-232323?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-232323?style=flat-square&logo=express&logoColor=white" alt="Express" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-232323?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-232323?style=flat-square&logo=python&logoColor=white" alt="Python" />
   </a>
   <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-232323?style=flat-square&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-232323?style=flat-square&logo=cplusplus&logoColor=white" alt="CPP" />
   </a>
   <br>
   <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-232323?style=flat-square&logo=ubuntu&logoColor=E95420" />
+    <img src="https://img.shields.io/badge/Ubuntu-232323?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
   </a>
   <a href="https://www.debian.org/">
-    <img src="https://img.shields.io/badge/Debian-232323?style=flat-square&logo=debian&logoColor=A80030" />
+    <img src="https://img.shields.io/badge/Debian-232323?style=flat-square&logo=debian&logoColor=A80030" alt="Debian" />
   </a>
   <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/Shell-232323?style=flat-square&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shell-232323?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 const me = {
     name: "Liwirya",
     status: "Student At SMA Budaya",
-    code_editor: "VS Code",
+    code_editor: "VS Code & Nano",
     
     system: {
         os: "Ubuntu & Debian",
@@ -76,20 +76,16 @@ console.log(`Welcome to ${me.name}'s Profile!`);
 ```
 
 <div align="center">
-<h3>📊 GitHub Stats</h3>
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dliwirya%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="150" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dliwirya%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="150" alt="languages graph" />
-</p>
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.demolab.com/%3Fuser%3Dliwirya%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="GitHub Streak" />
-</p>
-
-
-<a href="https://github.com/liwirya">
-<img src="https://img.shields.io/badge/GitHub-Liwirya-181717?style=flat-square&logo=github&logoColor=white" />
+<h3>🚀 Contribution Activity</h3>
+<a href="https://www.google.com/search?q=https://github.com/liwirya">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dliwirya%26theme%3Dreact-dark%26bg_color%3D0D1117%26hide_border%3Dtrue%26area%3Dtrue" width="100%" alt="Activity Graph" />
 </a>
-
+<a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dliwirya%26theme%3Ddarkhub%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="Trophies" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/liwirya">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Liwirya-181717%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Badge" />
+</a>
 
 
 <sub>© 2026 Liwirya.</sub>
