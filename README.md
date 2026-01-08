@@ -1,9 +1,8 @@
 <div align="center">
-
-<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=500&lines=Hi!+I'm+Liwirya;Network+%26+Back-End+Dev;Coffee+Lover" />
-  <img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="30%" align="right" style="border-radius: 20px; margin-left: 20px;" />
 </div>
+
+<img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="280" align="right" style="border-radius: 20px;" />
 
 <p align="left">
   <code>📍 Indonesia • High School Student</code><br>
@@ -13,28 +12,12 @@
   <code>⚡ "Learning by Doing"</code>
 </p>
 
-<p align="left">
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-2d2d2d?style=flat-square&logo=nodedotjs&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-2d2d2d?style=flat-square&logo=python&logoColor=white" />
-  </a>
-  <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-2d2d2d?style=flat-square&logo=ubuntu&logoColor=E95420" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/Shell-2d2d2d?style=flat-square&logo=gnu-bash&logoColor=white" />
-  </a>
-  <a href="https://www.debian.org/">
+<p>
+  <img src="https://img.shields.io/badge/Node.js-2d2d2d?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-2d2d2d?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-2d2d2d?style=flat-square&logo=ubuntu&logoColor=E95420" />
   <img src="https://img.shields.io/badge/Debian-2d2d2d?style=flat-square&logo=debian&logoColor=white" />
-  </a>
-  <a href="https://expressjs.com/">
-  <img src="https://img.shields.io/badge/Express.js-2d2d2d?style=flat-square&logo=express&logoColor=white" />
-</a>
-<a href="https://isocpp.org/">
-  <img src="https://img.shields.io/badge/C++-2d2d2d?style=flat-square&logo=cplusplus&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/Bash-2d2d2d?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 
 </div>
