@@ -72,13 +72,12 @@ console.log(`Welcome to ${me.name}'s Profile!`);
 ```
 
 <div align="center">
-<a href="https://github.com/liwirya">
-  <img src="https://github-readme-stats.vercel.app/api?username=liwirya&show_icons=true&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/liwirya">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=liwirya&theme=dark&hide_border=true" />
-</a>
-<img src="https://img.shields.io/badge/Game-Pikmin-181717?style=flat-square&logo=nintendo&logoColor=white" />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=liwirya&show_icons=true&theme=dark&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=liwirya&theme=dark&hide_border=true)
+
+![Game](https://img.shields.io/badge/Game-Pikmin-181717?style=flat-square&logo=nintendo&logoColor=white)
 <br>
 <sub>© 2026 Liwirya.</sub>
 </div>
