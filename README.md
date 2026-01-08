@@ -91,7 +91,7 @@ console.log(`Welcome to ${me.name}'s Profile!`);
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dliwirya%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26theme%3Dtokyonight" alt="Liwirya's github stats" width="440px" />
 </a>
 
-<a href="https://www.google.com/search?q=https://github.com/liwirya">
+<a href="https://github.com/liwirya">
 <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dliwirya%26theme%3Dtokyo-night%26hide_border%3Dfalse" alt="Liwirya's activity graph" />
 </a>
 
