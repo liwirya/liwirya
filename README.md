@@ -76,18 +76,8 @@ console.log(`Welcome to ${me.name}'s Profile!`);
 
 <div align="center">
 <a href="https://github.com/liwirya">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dliwirya%26theme%3Dtokyonight" alt="Liwirya's github stats" align="left" width="383px" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/liwirya">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.demolab.com/%3Fuser%3Dliwirya%26theme%3Dtokyonight%26currStreakNum%3Dfe8dab%26currStreakLabel%3Dfe8dab" alt="Liwirya's github stats" width="440px" />
-</a><br />
-<a href="https://www.google.com/search?q=https://github.com/liwirya">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dliwirya%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26theme%3Dtokyonight" alt="Liwirya's github stats" width="440x" />
-</a>
-<a href="https://github.com/liwirya">
 <img src="https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dliwirya%26theme%3Dtokyo-night%26hide_border%3Dfalse" alt="Liwirya's activity graph" />
 </a>
-
 
 <sub>© 2026 Liwirya.</sub>
 </div>
