@@ -10,7 +10,7 @@
 <p align="left">
   <code>📍 Indonesia • High School Student</code><br>
   <code>🐧 OS: Ubuntu & Debian</code><br>
-  <code>🚀 Node.js • Python • C++ • Bash</code><br>
+  <code>🚀 Node.js • Python • Bash</code><br>
   <code>🌐 Network Enthusiast</code><br>
   <code>⚡ "Learning by Doing"</code>
 </p>
@@ -25,10 +25,6 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-232323?style=flat-square&logo=python&logoColor=white" alt="Python" />
   </a>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-232323?style=flat-square&logo=cplusplus&logoColor=white" alt="CPP" />
-  </a>
-  <br>
   <a href="https://ubuntu.com/">
     <img src="https://img.shields.io/badge/Ubuntu-232323?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
   </a>
@@ -64,7 +60,7 @@ const me = {
     },
 
     skills: {
-        backend: ["Node.js", "Express", "Python", "C++", "Bash"],
+        backend: ["Node.js", "Express", "Python", "Bash"],
         network: ["SSH", "VPS Management", "Subnetting"]
     },
 
