@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&random=false&width=500&lines=Hi!+I'm+Wahyu+Pratama+👋;Full-Stack+%26+Mobile+Engineer;AI+Enthusiast+%7C+Ex-Inbound;Always+Learning+New+Things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&random=false&width=500&lines=Hi!+I'm+Wira+Liwirya+👋;Full-Stack+%26+Mobile+Engineer;AI+Enthusiast+%7C+Ex-Inbound;Always+Learning+New+Things!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -54,8 +54,8 @@
 ### 👨‍💻 Tentang Gue
 
 ```javascript
-const wahyuPratama = {
-    fullName: "Wahyu Pratama",
+const liwirya = {
+    fullName: "Wira Liwirya",
     role: "Software Engineer Lead",
     location: "Indonesia 🇮🇩",
     
@@ -90,8 +90,8 @@ const wahyuPratama = {
     lifePhilosophy: "Learn by doing, teach by sharing",
     
     contact: {
-        github: "github.com/wahyupratama",
-        linkedin: "linkedin.com/in/wahyupratama",
+        github: "github.com/liwirya",
+        linkedin: "linkedin.com/in/liwirya",
         instagram: "@satutitik.engineer"
     }
 };
@@ -104,16 +104,16 @@ console.log("Welcome to my GitHub! Let's build something cool 🚀");
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahyupratama&theme=github-dark&hide_border=true&custom_title=Contribution%20Activity&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Wahyu's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liwirya&theme=github-dark&hide_border=true&custom_title=Contribution%20Activity&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Wahyu's Contribution Graph" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wahyupratama&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Wahyu's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyupratama&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liwirya&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Wahyu's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liwirya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyupratama&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liwirya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
 </div>
 
 ---
@@ -143,13 +143,13 @@ console.log("Welcome to my GitHub! Let's build something cool 🚀");
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/wahyupratama">
+  <a href="https://linkedin.com/in/liwirya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/satutitik.engineer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://github.com/wahyupratama">
+  <a href="https://github.com/liwirya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:wahyu@example.com">
@@ -160,9 +160,9 @@ console.log("Welcome to my GitHub! Let's build something cool 🚀");
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahyupratama&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=liwirya&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
   <p><i>"Ternyata 'hello world' sudah setahun berlalu... time flies! 🚀"</i></p>
   
-  <sub>© 2026 Wahyu Pratama • Made with ❤️ and ☕</sub>
+  <sub>© 2026 Wira Liwirya</sub>
 </div>
