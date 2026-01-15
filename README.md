@@ -2,41 +2,37 @@
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=450&lines=Hi!+I'm+Wira+Liwirya;Full-Stack+Developer;Software+Engineer+Lead" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=450&lines=Hi!+I'm+Liwirya;Network+%26+Back-End+Dev;Coffee+Lover" alt="Typing SVG" />
   </a>
+  <img src="https://img1.pixhost.to/images/11434/680982985_wanz.jpg" width="28%" align="right" style="border-radius: 15px; margin-left: 20px; margin-bottom: 20px;" alt="Profile Pic" />
 </div>
 
 <p align="left">
-  <code>📍 Indonesia • Software Engineer Lead</code><br>
-  <code>💻 Full-Stack & Mobile Engineer</code><br>
-  <code>🎓 Electrical Engineering • IoT Specialist</code><br>
-  <code>⚡ Ex-MSB Mandir • Ex-OBS • Ex-SIB 7</code>
+  <code>📍 Indonesia • High School Student</code><br>
+  <code>🐧 OS: Ubuntu & Debian</code><br>
+  <code>🚀 Node.js • Python • Bash</code><br>
+  <code>🌐 Network Enthusiast</code><br>
+  <code>⚡ "Learning by Doing"</code>
 </p>
 
 <p align="left">
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/Node.js-232323?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-232323?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-232323?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/Express.js-232323?style=flat-square&logo=express&logoColor=white" alt="Express" />
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-232323?style=flat-square&logo=python&logoColor=white" alt="Python" />
   </a>
-  <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/PHP-232323?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <a href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/Ubuntu-232323?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
   </a>
-  <a href="https://laravel.com/">
-    <img src="https://img.shields.io/badge/Laravel-232323?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <a href="https://www.debian.org/">
+    <img src="https://img.shields.io/badge/Debian-232323?style=flat-square&logo=debian&logoColor=A80030" alt="Debian" />
   </a>
-  <a href="https://flutter.dev/">
-    <img src="https://img.shields.io/badge/Flutter-232323?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-232323?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Shell-232323?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   </a>
 </p>
 
@@ -48,48 +44,37 @@
 
 ```javascript
 /**
- * Wira Liwirya
- * ────────────────────────────
- * Software Engineer Lead
- * Full-Stack & Mobile Developer
+ * Liwirya Profile
+ * ───────────────
+ * Back-End & Network Enthusiast
  */
 
-const wira = {
-    name: "Wira Liwirya",
-    role: "Software Engineer Lead",
-    location: "Indonesia",
+const me = {
+    name: "Liwirya",
+    status: "Student At SMA Budaya",
+    code_editor: "VS Code & Nano",
     
-    expertise: {
-        frontend: ["React", "Next.js", "TypeScript"],
-        backend: ["Node.js", "Python", "PHP", "Laravel"],
-        mobile: ["React Native", "Flutter"],
-        database: ["PostgreSQL", "MongoDB", "MySQL"],
-        tools: ["Git", "Docker", "VS Code"]
+    system: {
+        os: "Ubuntu & Debian",
+        mobile: "Termux (Android)"
     },
 
-    background: {
-        education: "Electrical Engineering & IoT",
-        experience: ["Ex-MSB Mandir", "Ex-OBS Foundation", "Ex-SIB 7", "Ex-Inbound"]
+    skills: {
+        backend: ["Node.js", "Express", "Python", "Bash"],
+        network: ["SSH", "VPS Management", "Subnetting"]
     },
 
-    current_focus: "Building scalable systems & AI integration",
-    philosophy: "Clean code, solid architecture"
+    current_goal: "Mastering Backend Architecture"
 };
 
-console.log(`Welcome to ${wira.name}'s workspace`);
+console.log(`Welcome to ${me.name}'s Profile!`);
 ```
 
 <div align="center">
+<p>🔥 Stats 🔥</p>
+<a href="https://github.com/liwirya">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=liwirya&theme=tokyo-night&hide_border=false" alt="Liwirya's activity graph" />
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liwirya&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&area=true" alt="Wira's contribution graph" />
-
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=liwirya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liwirya&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<sub>© 2026 Wira Liwirya • Software Engineer Lead</sub>
-
+<sub>© 2026 Liwirya.</sub>
 </div>
