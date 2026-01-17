@@ -42,34 +42,6 @@
 
 ---
 
-```javascript
-/**
- * Liwirya Profile
- * ───────────────
- * Back-End & Network Enthusiast
- */
-
-const me = {
-    name: "Liwirya",
-    status: "Student At SMA Budaya",
-    code_editor: "VS Code & Nano",
-    
-    system: {
-        os: "Ubuntu & Debian",
-        mobile: "Termux (Android)"
-    },
-
-    skills: {
-        backend: ["Node.js", "Express", "Python", "Bash"],
-        network: ["SSH", "VPS Management", "Subnetting"]
-    },
-
-    current_goal: "Mastering Backend Architecture"
-};
-
-console.log(`Welcome to ${me.name}'s Profile!`);
-```
-
 <div align="center">
 <p>🔥 Stats 🔥</p>
 <a href="https://github.com/liwirya">
