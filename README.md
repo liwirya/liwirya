@@ -44,8 +44,8 @@
 
 <div align="center">
 <p>🔥 Stats 🔥</p>
-<a href="https://github.com/liwirya">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liwirya&theme=tokyo-night&hide_border=false" alt="Liwirya's activity graphh" />
+<a href="https://github.com/wiraliwirya">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wiraliwirya&theme=tokyo-night&hide_border=false" alt="Liwirya's activity graphh" />
 </a>
 
 <sub>© 2026 Liwirya.</sub>
