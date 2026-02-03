@@ -10,7 +10,7 @@
 <p align="left">
   <code>📍 Indonesia • High School Student</code><br>
   <code>🐧 OS: Ubuntu & Debian</code><br>
-  <code>🚀 Node.js • Python • C++ • Bash • Express</code><br>
+  <code>🚀 Node.js • Python • C++ • Bash</code><br>
   <code>🌐 Network Enthusiast</code><br>
   <code>⚡ "Learning by Doing"</code>
 </p>
