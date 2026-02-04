@@ -10,8 +10,6 @@
 <p align="left">
   <code>📍 Indonesia • High School Student</code><br>
   <code>🐧 OS: Ubuntu & Debian</code><br>
-  <code>🚀 Node.js • Python • C++ • Bash</code><br>
-  <code>🌐 Network Enthusiast</code><br>
   <code>⚡ "Learning by Doing"</code>
 </p>
 
@@ -36,6 +34,9 @@
   </a>
   <a href="https://isocpp.org/">
   <img src="https://img.shields.io/badge/C++-232323?style=flat-square&logo=cplusplus&logoColor=white" />
+</a>
+  <a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/JavaScript-232323?style=flat-square&logo=javascript&logoColor=white" />
 </a>
 </p>
 
