@@ -34,6 +34,9 @@
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/Shell-232323?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   </a>
+  <a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</a>
 </p>
 
 </div>
