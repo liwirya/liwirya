@@ -29,9 +29,6 @@
   <a href="https://www.debian.org/">
     <img src="https://img.shields.io/badge/Debian-232323?style=flat-square&logo=debian&logoColor=A80030" alt="Debian" />
   </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/Shell-232323?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  </a>
   <a href="https://isocpp.org/">
   <img src="https://img.shields.io/badge/C++-232323?style=flat-square&logo=cplusplus&logoColor=white" />
 </a>
