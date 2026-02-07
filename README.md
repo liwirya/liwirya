@@ -9,7 +9,7 @@
 
 <p align="left">
   <code>📍 Indonesia • High School Student</code><br>
-  <code>🐧 OS: Ubuntu & Debian</code><br>
+  <code>🐧 OS: Ubuntu, Debian, & Linux</code><br>
   <code>⚡ "Learning by Doing"</code>
 </p>
 
