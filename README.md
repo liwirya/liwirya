@@ -29,6 +29,9 @@
   <a href="https://www.debian.org/">
     <img src="https://img.shields.io/badge/Debian-232323?style=flat-square&logo=debian&logoColor=A80030" alt="Debian" />
   </a>
+  <a href="https://www.debian.org/">
+    <img src="https://img.shields.io/badge/Linux-232323?style=flat-square&logo=linux&logoColor=A80030" alt="Linux" />
+  </a>
   <a href="https://isocpp.org/">
   <img src="https://img.shields.io/badge/C++-232323?style=flat-square&logo=cplusplus&logoColor=white" />
 </a>
