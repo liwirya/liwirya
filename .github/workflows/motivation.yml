@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 permissions:
   contents: write
@@ -68,9 +66,7 @@ jobs:
             exit 0
           fi
 
-          TODAY=$(date +'%B %d, %Y')
-
-          # Tulis block motivasi baru — format disesuaikan dengan README
+          # Format quote — tanpa tanggal, author pakai sub tag
           cat > /tmp/motivation_block.txt << ENDBLOCK
 <!-- MOTIVATION:START -->
 <div align="center">
@@ -78,7 +74,7 @@ jobs:
 
 *"${QUOTE}"*
 
-— ${AUTHOR} &nbsp;|&nbsp; <sub>Updated: ${TODAY}</sub>
+<sub>— ${AUTHOR}</sub>
 
 <br>
 </div>
@@ -101,7 +97,7 @@ ENDBLOCK
 
             mv /tmp/README_new.md README.md
           else
-            echo "Marker tidak ditemukan di README.md. Pastikan marker sudah ada."
+            echo "Marker MOTIVATION tidak ditemukan di README.md."
             exit 1
           fi
 
@@ -129,5 +125,5 @@ ENDBLOCK
             echo "|--------|-------|"
             echo "| Quote  | ${{ steps.get-quote.outputs.quote }} |"
             echo "| Author | ${{ steps.get-quote.outputs.author }} |"
-            echo "| Date   | $(date +'%B %d, %Y at %H:%M UTC') |"
+            echo "| Date   | $(date +'%Y-%m-%d at %H:%M UTC') |"
           } >> "$GITHUB_STEP_SUMMARY"
