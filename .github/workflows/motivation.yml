@@ -1,0 +1,133 @@
+name: Update Daily Motivation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  update-motivation:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Ensure jq is Available
+        run: |
+          if ! command -v jq &> /dev/null; then
+            sudo apt-get install -y jq
+          fi
+
+      - name: Fetch Motivational Quote
+        id: get-quote
+        run: |
+          set -e
+
+          for attempt in 1 2 3; do
+            RESPONSE=$(curl -sf --max-time 10 https://dummyjson.com/quotes/random) && break
+            echo "Attempt $attempt failed, retrying in 5 seconds..."
+            sleep 5
+          done
+
+          if [ -z "$RESPONSE" ]; then
+            echo "API unreachable after 3 attempts. Skipping update."
+            exit 0
+          fi
+
+          QUOTE=$(echo "$RESPONSE" | jq -r '.quote' | tr -d '\r\n')
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.author' | tr -d '\r\n')
+
+          {
+            echo "quote<<EOF_QUOTE"
+            echo "$QUOTE"
+            echo "EOF_QUOTE"
+            echo "author<<EOF_AUTHOR"
+            echo "$AUTHOR"
+            echo "EOF_AUTHOR"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Update README
+        env:
+          QUOTE: ${{ steps.get-quote.outputs.quote }}
+          AUTHOR: ${{ steps.get-quote.outputs.author }}
+        run: |
+          set -e
+
+          if [ -z "$QUOTE" ]; then
+            echo "Quote is empty, skipping README update."
+            exit 0
+          fi
+
+          TODAY=$(date +'%B %d, %Y')
+
+          # Tulis block motivasi baru — format disesuaikan dengan README
+          cat > /tmp/motivation_block.txt << ENDBLOCK
+<!-- MOTIVATION:START -->
+<div align="center">
+<br>
+
+*"${QUOTE}"*
+
+— ${AUTHOR} &nbsp;|&nbsp; <sub>Updated: ${TODAY}</sub>
+
+<br>
+</div>
+<!-- MOTIVATION:END -->
+ENDBLOCK
+
+          if grep -q "<!-- MOTIVATION:START -->" README.md && grep -q "<!-- MOTIVATION:END -->" README.md; then
+            awk '
+              /<!-- MOTIVATION:START -->/ {
+                found = 1
+                while ((getline line < "/tmp/motivation_block.txt") > 0) print line
+                close("/tmp/motivation_block.txt")
+                next
+              }
+              /<!-- MOTIVATION:END -->/ {
+                if (found) { found = 0; next }
+              }
+              !found { print }
+            ' README.md > /tmp/README_new.md
+
+            mv /tmp/README_new.md README.md
+          else
+            echo "Marker tidak ditemukan di README.md. Pastikan marker sudah ada."
+            exit 1
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "wiraliwirya222210@gmail.com"
+          git config --local user.name "wiraliwirya"
+
+          git add README.md
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "update: daily motivation - $(date +'%Y-%m-%d')"
+            git push
+          fi
+
+      - name: Job Summary
+        if: always()
+        run: |
+          {
+            echo "## Daily Motivation Update"
+            echo ""
+            echo "| Field  | Value |"
+            echo "|--------|-------|"
+            echo "| Quote  | ${{ steps.get-quote.outputs.quote }} |"
+            echo "| Author | ${{ steps.get-quote.outputs.author }} |"
+            echo "| Date   | $(date +'%B %d, %Y at %H:%M UTC') |"
+          } >> "$GITHUB_STEP_SUMMARY"
