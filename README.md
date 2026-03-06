@@ -30,19 +30,33 @@
     <img src="https://img.shields.io/badge/Debian-232323?style=flat-square&logo=debian&logoColor=A80030" alt="Debian" />
   </a>
   <a href="https://www.kernel.org/">
-  <img src="https://img.shields.io/badge/Linux-232323?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+    <img src="https://img.shields.io/badge/Linux-232323?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
   </a>
   <a href="https://isocpp.org/">
-  <img src="https://img.shields.io/badge/C++-232323?style=flat-square&logo=cplusplus&logoColor=white" />
-</a>
-  <a href="https://isocpp.org/">
-  <img src="https://img.shields.io/badge/JavaScript-232323?style=flat-square&logo=javascript&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/C++-232323?style=flat-square&logo=cplusplus&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-232323?style=flat-square&logo=javascript&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
 <br clear="all">
+
+---
+
+<!-- MOTIVATION:START -->
+<div align="center">
+<br>
+
+*"The only way to do great work is to love what you do."*
+
+— Steve Jobs &nbsp;|&nbsp; <sub>Updated: January 01, 2026</sub>
+
+<br>
+</div>
+<!-- MOTIVATION:END -->
 
 ---
 
