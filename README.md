@@ -52,7 +52,7 @@
 
 *"The only way to do great work is to love what you do."*
 
-— Steve Jobs &nbsp;|&nbsp; <sub>Updated: January 01, 2026</sub>
+<sub>— Steve Jobs</sub>
 
 <br>
 </div>
@@ -63,7 +63,7 @@
 <div align="center">
 <p>🔥 Stats 🔥</p>
 <a href="https://github.com/wiraliwirya">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wiraliwirya&theme=tokyo-night&hide_border=false" alt="Liwirya's activity graphh" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wiraliwirya&theme=tokyo-night&hide_border=false" alt="Liwirya's activity graph" />
 </a>
 
 <sub>© 2026 Liwirya.</sub>
