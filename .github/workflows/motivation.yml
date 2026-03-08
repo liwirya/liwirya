@@ -30,29 +30,23 @@ jobs:
         id: get-quote
         run: |
           set -e
-
           for attempt in 1 2 3; do
             RESPONSE=$(curl -sf --max-time 10 https://dummyjson.com/quotes/random) && break
             echo "Attempt $attempt failed, retrying in 5 seconds..."
             sleep 5
           done
-
           if [ -z "$RESPONSE" ]; then
             echo "API unreachable after 3 attempts. Skipping update."
             exit 0
           fi
-
           QUOTE=$(echo "$RESPONSE" | jq -r '.quote' | tr -d '\r\n')
           AUTHOR=$(echo "$RESPONSE" | jq -r '.author' | tr -d '\r\n')
-
-          {
-            echo "quote<<EOF_QUOTE"
-            echo "$QUOTE"
-            echo "EOF_QUOTE"
-            echo "author<<EOF_AUTHOR"
-            echo "$AUTHOR"
-            echo "EOF_AUTHOR"
-          } >> "$GITHUB_OUTPUT"
+          echo "quote<<EOF_QUOTE" >> "$GITHUB_OUTPUT"
+          echo "$QUOTE" >> "$GITHUB_OUTPUT"
+          echo "EOF_QUOTE" >> "$GITHUB_OUTPUT"
+          echo "author<<EOF_AUTHOR" >> "$GITHUB_OUTPUT"
+          echo "$AUTHOR" >> "$GITHUB_OUTPUT"
+          echo "EOF_AUTHOR" >> "$GITHUB_OUTPUT"
 
       - name: Update README
         env:
@@ -60,27 +54,22 @@ jobs:
           AUTHOR: ${{ steps.get-quote.outputs.author }}
         run: |
           set -e
-
           if [ -z "$QUOTE" ]; then
             echo "Quote is empty, skipping README update."
             exit 0
           fi
-
-          # Format quote — tanpa tanggal, author pakai sub tag
-          cat > /tmp/motivation_block.txt << ENDBLOCK
-<!-- MOTIVATION:START -->
-<div align="center">
-<br>
-
-*"${QUOTE}"*
-
-<sub>— ${AUTHOR}</sub>
-
-<br>
-</div>
-<!-- MOTIVATION:END -->
-ENDBLOCK
-
+          printf '%s\n' \
+            '<!-- MOTIVATION:START -->' \
+            '<div align="center">' \
+            '<br>' \
+            '' \
+            "*\"${QUOTE}\"*" \
+            '' \
+            "<sub>— ${AUTHOR}</sub>" \
+            '' \
+            '<br>' \
+            '</div>' \
+            '<!-- MOTIVATION:END -->' > /tmp/motivation_block.txt
           if grep -q "<!-- MOTIVATION:START -->" README.md && grep -q "<!-- MOTIVATION:END -->" README.md; then
             awk '
               /<!-- MOTIVATION:START -->/ {
@@ -94,7 +83,6 @@ ENDBLOCK
               }
               !found { print }
             ' README.md > /tmp/README_new.md
-
             mv /tmp/README_new.md README.md
           else
             echo "Marker MOTIVATION tidak ditemukan di README.md."
@@ -105,9 +93,7 @@ ENDBLOCK
         run: |
           git config --local user.email "wiraliwirya222210@gmail.com"
           git config --local user.name "wiraliwirya"
-
           git add README.md
-
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
@@ -118,12 +104,10 @@ ENDBLOCK
       - name: Job Summary
         if: always()
         run: |
-          {
-            echo "## Daily Motivation Update"
-            echo ""
-            echo "| Field  | Value |"
-            echo "|--------|-------|"
-            echo "| Quote  | ${{ steps.get-quote.outputs.quote }} |"
-            echo "| Author | ${{ steps.get-quote.outputs.author }} |"
-            echo "| Date   | $(date +'%Y-%m-%d at %H:%M UTC') |"
-          } >> "$GITHUB_STEP_SUMMARY"
+          echo "## Daily Motivation Update" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Field  | Value |" >> "$GITHUB_STEP_SUMMARY"
+          echo "|--------|-------|" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Quote  | ${{ steps.get-quote.outputs.quote }} |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Author | ${{ steps.get-quote.outputs.author }} |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Time   | $(TZ='Asia/Jakarta' date +'%Y-%m-%d %H:%M WIB') |" >> "$GITHUB_STEP_SUMMARY"
