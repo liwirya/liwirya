@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"The only way to do great work is to love what you do."*
+*"Man Is Still The Most Extraordinary Computer Of All."*
 
-<sub>— Steve Jobs</sub>
+<sub>— John F. Kennedy</sub>
 
 <br>
 </div>
