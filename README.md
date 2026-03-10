@@ -50,7 +50,7 @@
 <div align="center">
 <br>
 
-*"Seek knowledge and teach it to people. Learn dignity and tranquillity, and be humble towards those from whom you learn knowledge and be humble towards those to whom you teach it, and do not be tyrannical scholar otherwise your knowledge cannot be established because of your tyranny."*
+*"To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene."*
 
 <sub>— Umar ibn Al-Khattāb (R.A)</sub>
 
