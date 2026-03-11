@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene."*
+*"He who trusts the world, the world betrays him."*
 
-<sub>— Umar ibn Al-Khattāb (R.A)</sub>
+<sub>— Ali ibn Abi Talib (R.A)</sub>
 
 <br>
 </div>
