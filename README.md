@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"He who trusts the world, the world betrays him."*
+*"Don'T Tell Fish Stories Where The People Know You; But Particularly, Don'T Tell Them Where They Know The Fish."*
 
-<sub>— Ali ibn Abi Talib (R.A)</sub>
+<sub>— Mark Twain</sub>
 
 <br>
 </div>
