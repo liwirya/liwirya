@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Don'T Tell Fish Stories Where The People Know You; But Particularly, Don'T Tell Them Where They Know The Fish."*
+*"If Everyone Is Moving Forward Together, Then Success Takes Care Of Itself."*
 
-<sub>— Mark Twain</sub>
+<sub>— Henry Ford</sub>
 
 <br>
 </div>
