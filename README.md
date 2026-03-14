@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"If Everyone Is Moving Forward Together, Then Success Takes Care Of Itself."*
+*"You don't want no pie in the sky when you die, You want something here on the ground while you're still around."*
 
-<sub>— Henry Ford</sub>
+<sub>— Muhammad Ali</sub>
 
 <br>
 </div>
