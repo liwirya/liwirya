@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"You don't want no pie in the sky when you die, You want something here on the ground while you're still around."*
+*"Love Begins At Home, And It Is Not How Much We Do... But How Much Love We Put In That Action."*
 
-<sub>— Muhammad Ali</sub>
+<sub>— Mother Teresa</sub>
 
 <br>
 </div>
