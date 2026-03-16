@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Love Begins At Home, And It Is Not How Much We Do... But How Much Love We Put In That Action."*
+*"You Know You Are On The Road To Success If You Would Do Your Job, And Not Be Paid For It."*
 
-<sub>— Mother Teresa</sub>
+<sub>— Oprah Winfrey</sub>
 
 <br>
 </div>
