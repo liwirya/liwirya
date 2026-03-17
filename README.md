@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"You Know You Are On The Road To Success If You Would Do Your Job, And Not Be Paid For It."*
+*"It's hard to be humble when you're as great as I am."*
 
-<sub>— Oprah Winfrey</sub>
+<sub>— Muhammad Ali</sub>
 
 <br>
 </div>
