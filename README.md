@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"It's hard to be humble when you're as great as I am."*
+*"I Believe In Christianity As I Believe That The Sun Has Risen: Not Only Because I See It, But Because By It I See Everything Else."*
 
-<sub>— Muhammad Ali</sub>
+<sub>— C. S. Lewis</sub>
 
 <br>
 </div>
