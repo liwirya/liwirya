@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"I Believe In Christianity As I Believe That The Sun Has Risen: Not Only Because I See It, But Because By It I See Everything Else."*
+*"Love Begins By Taking Care Of The Closest Ones - The Ones At Home."*
 
-<sub>— C. S. Lewis</sub>
+<sub>— Mother Teresa</sub>
 
 <br>
 </div>
