@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Love Begins By Taking Care Of The Closest Ones - The Ones At Home."*
+*"People's hearts are like wild animals. They attach their selves to those that love and train them."*
 
-<sub>— Mother Teresa</sub>
+<sub>— Ali ibn Abi Talib (R.A)</sub>
 
 <br>
 </div>
