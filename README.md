@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"People's hearts are like wild animals. They attach their selves to those that love and train them."*
+*"Educationists should build the capacities of the spirit of inquiry, creativity, entrepreneurial and moral leadership among students and become their role model."*
 
-<sub>— Ali ibn Abi Talib (R.A)</sub>
+<sub>— Abdul Kalam</sub>
 
 <br>
 </div>
