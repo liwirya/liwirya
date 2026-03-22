@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Educationists should build the capacities of the spirit of inquiry, creativity, entrepreneurial and moral leadership among students and become their role model."*
+*"Do not feel lonely on the road of righteousness Because of the fewness of the walkers on it."*
 
-<sub>— Abdul Kalam</sub>
+<sub>— Ali ibn Abi Talib (R.A)</sub>
 
 <br>
 </div>
