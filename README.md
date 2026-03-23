@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Do not feel lonely on the road of righteousness Because of the fewness of the walkers on it."*
+*"There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness."*
 
-<sub>— Ali ibn Abi Talib (R.A)</sub>
+<sub>— Friedrich Nietzsche</sub>
 
 <br>
 </div>
