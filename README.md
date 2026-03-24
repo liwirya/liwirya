@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness."*
+*"Total commitment is the common denominator among all successful men and women."*
 
-<sub>— Friedrich Nietzsche</sub>
+<sub>— Abdul Kalam</sub>
 
 <br>
 </div>
