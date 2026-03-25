@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Total commitment is the common denominator among all successful men and women."*
+*"Truly great people in history never wanted to be great for themselves. All they wanted was the chance to do good for others and be close to God."*
 
-<sub>— Abdul Kalam</sub>
+<sub>— Muhammad Ali</sub>
 
 <br>
 </div>
