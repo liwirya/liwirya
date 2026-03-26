@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Truly great people in history never wanted to be great for themselves. All they wanted was the chance to do good for others and be close to God."*
+*"You Are Not Only Responsible For What You Say, But Also For What You Do Not Say."*
 
-<sub>— Muhammad Ali</sub>
+<sub>— Martin Luther</sub>
 
 <br>
 </div>
