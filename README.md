@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"You Are Not Only Responsible For What You Say, But Also For What You Do Not Say."*
+*"A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On."*
 
-<sub>— Martin Luther</sub>
+<sub>— Winston Churchill</sub>
 
 <br>
 </div>
