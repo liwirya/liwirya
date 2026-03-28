@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On."*
+*"There cannot be self-restraint in the absence of desire: when there is no adversary, what avails thy courage? Hark, do not castrate thyself, do not become a monk: chastity depends on the existence of lust."*
 
-<sub>— Winston Churchill</sub>
+<sub>— Rumi</sub>
 
 <br>
 </div>
