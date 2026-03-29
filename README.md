@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"There cannot be self-restraint in the absence of desire: when there is no adversary, what avails thy courage? Hark, do not castrate thyself, do not become a monk: chastity depends on the existence of lust."*
+*"His hands can't hit what his eyes can't see."*
 
-<sub>— Rumi</sub>
+<sub>— Muhammad Ali</sub>
 
 <br>
 </div>
