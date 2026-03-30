@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"His hands can't hit what his eyes can't see."*
+*"To Jaw-Jaw Is Always Better Than To War-War."*
 
-<sub>— Muhammad Ali</sub>
+<sub>— Winston Churchill</sub>
 
 <br>
 </div>
