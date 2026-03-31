@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"To Jaw-Jaw Is Always Better Than To War-War."*
+*"Money Is Only A Tool. It Will Take You Wherever You Wish, But It Will Not Replace You As The Driver."*
 
-<sub>— Winston Churchill</sub>
+<sub>— Ayn Rand</sub>
 
 <br>
 </div>
