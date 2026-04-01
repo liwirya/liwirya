@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Money Is Only A Tool. It Will Take You Wherever You Wish, But It Will Not Replace You As The Driver."*
+*"Have an earnestness for death and you will have life."*
 
-<sub>— Ayn Rand</sub>
+<sub>— Abu Bakr (R.A)</sub>
 
 <br>
 </div>
