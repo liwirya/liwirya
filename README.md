@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Have an earnestness for death and you will have life."*
+*"I believe in the religion of Islam. I believe in Allah and peace."*
 
-<sub>— Abu Bakr (R.A)</sub>
+<sub>— Muhammad Ali</sub>
 
 <br>
 </div>
