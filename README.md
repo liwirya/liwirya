@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"My health is in the hands of Allah, who has ways of testing us. Whatever happens, happens. I a'int the greatest - it's Allah. I gave myself a job. I work for God."*
+*"A Good Head And A Good Heart Are Always A Formidable Combination."*
 
-<sub>— Muhammad Ali</sub>
+<sub>— Nelson Mandela</sub>
 
 <br>
 </div>
