@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"A Good Head And A Good Heart Are Always A Formidable Combination."*
+*"God, our Creator, has stored within our minds and personalities, great potential strength and ability. Prayer helps us tap and develop these powers."*
 
-<sub>— Nelson Mandela</sub>
+<sub>— Abdul Kalam</sub>
 
 <br>
 </div>
