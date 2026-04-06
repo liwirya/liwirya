@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"God, our Creator, has stored within our minds and personalities, great potential strength and ability. Prayer helps us tap and develop these powers."*
+*"Set your life on fire. Seek those who fan your flames."*
 
-<sub>— Abdul Kalam</sub>
+<sub>— Rumi</sub>
 
 <br>
 </div>
