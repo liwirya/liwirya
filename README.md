@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Set your life on fire. Seek those who fan your flames."*
+*"You Don'T Have To Be Great To Start, But You Have To Start To Be Great"*
 
-<sub>— Rumi</sub>
+<sub>— Zig Ziglar</sub>
 
 <br>
 </div>
