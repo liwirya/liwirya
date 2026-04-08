@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"You Don'T Have To Be Great To Start, But You Have To Start To Be Great"*
+*"To Hell With Circumstances; I Create Opportunities."*
 
-<sub>— Zig Ziglar</sub>
+<sub>— Bruce Lee</sub>
 
 <br>
 </div>
