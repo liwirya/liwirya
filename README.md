@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"To Hell With Circumstances; I Create Opportunities."*
+*"Pride In The Case Of A Rich Man Is Bad, But Pride In The Case Of A Poor Man Is Worse."*
 
-<sub>— Bruce Lee</sub>
+<sub>— Abu Bakr</sub>
 
 <br>
 </div>
