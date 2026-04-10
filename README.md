@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Pride In The Case Of A Rich Man Is Bad, But Pride In The Case Of A Poor Man Is Worse."*
+*"You Drown Not By Falling Into A River, But By Staying Submerged In It."*
 
-<sub>— Abu Bakr</sub>
+<sub>— Paulo Coelho</sub>
 
 <br>
 </div>
