@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"You Drown Not By Falling Into A River, But By Staying Submerged In It."*
+*"Educationists should build the capacities of the spirit of inquiry, creativity, entrepreneurial and moral leadership among students and become their role model."*
 
-<sub>— Paulo Coelho</sub>
+<sub>— Abdul Kalam</sub>
 
 <br>
 </div>
