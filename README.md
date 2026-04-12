@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Educationists should build the capacities of the spirit of inquiry, creativity, entrepreneurial and moral leadership among students and become their role model."*
+*"Monsters Are Real, And Ghosts Are Real Too. They Live Inside Us, And Sometimes, They Win."*
 
-<sub>— Abdul Kalam</sub>
+<sub>— Stephen King</sub>
 
 <br>
 </div>
