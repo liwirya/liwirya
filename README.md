@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Monsters Are Real, And Ghosts Are Real Too. They Live Inside Us, And Sometimes, They Win."*
+*"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say."*
 
-<sub>— Stephen King</sub>
+<sub>— Umar ibn Al-Khattāb (R.A)</sub>
 
 <br>
 </div>
