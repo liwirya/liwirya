@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say."*
+*"Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity."*
 
-<sub>— Umar ibn Al-Khattāb (R.A)</sub>
+<sub>— Abdul Kalam</sub>
 
 <br>
 </div>
