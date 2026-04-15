@@ -50,7 +50,7 @@
 <div align="center">
 <br>
 
-*"Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity."*
+*"One of the very important characteristics of a student is to question. Let the students ask questions."*
 
 <sub>— Abdul Kalam</sub>
 
