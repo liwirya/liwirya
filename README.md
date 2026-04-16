@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"One of the very important characteristics of a student is to question. Let the students ask questions."*
+*"I'M Not Even Kind Of A Lesbian."*
 
-<sub>— Abdul Kalam</sub>
+<sub>— Oprah Winfrey</sub>
 
 <br>
 </div>
