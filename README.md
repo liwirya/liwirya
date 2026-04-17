@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"I'M Not Even Kind Of A Lesbian."*
+*"One who is mild rather than forceful has greater capacity for outreach."*
 
-<sub>— Oprah Winfrey</sub>
+<sub>— Ali ibn Abi Talib (R.A)</sub>
 
 <br>
 </div>
