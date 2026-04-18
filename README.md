@@ -50,7 +50,7 @@
 <div align="center">
 <br>
 
-*"One who is mild rather than forceful has greater capacity for outreach."*
+*"The sin which makes you sad and repentant is more liked by Allah than the good deed which turns you arrogant."*
 
 <sub>— Ali ibn Abi Talib (R.A)</sub>
 
