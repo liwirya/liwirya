@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"The sin which makes you sad and repentant is more liked by Allah than the good deed which turns you arrogant."*
+*"The Lack Of Money Is The Root Of All Evil."*
 
-<sub>— Ali ibn Abi Talib (R.A)</sub>
+<sub>— Mark Twain</sub>
 
 <br>
 </div>
