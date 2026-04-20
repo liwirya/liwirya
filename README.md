@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"The Lack Of Money Is The Root Of All Evil."*
+*"Riches without faith are the greatest poverty."*
 
-<sub>— Mark Twain</sub>
+<sub>— Ali ibn Abi Talib (R.A)</sub>
 
 <br>
 </div>
