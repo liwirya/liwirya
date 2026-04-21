@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Riches without faith are the greatest poverty."*
+*"We All Live With The Objective Of Being Happy; Our Lives Are All Different And Yet The Same."*
 
-<sub>— Ali ibn Abi Talib (R.A)</sub>
+<sub>— Anne Frank</sub>
 
 <br>
 </div>
