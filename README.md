@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"We All Live With The Objective Of Being Happy; Our Lives Are All Different And Yet The Same."*
+*"When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It."*
 
-<sub>— Anne Frank</sub>
+<sub>— Henry Ford</sub>
 
 <br>
 </div>
