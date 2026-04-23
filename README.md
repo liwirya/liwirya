@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It."*
+*"Every day is different, and some days are better than others, but no matter how challenging the day, I get up and live it."*
 
-<sub>— Henry Ford</sub>
+<sub>— Muhammad Ali</sub>
 
 <br>
 </div>
