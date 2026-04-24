@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Every day is different, and some days are better than others, but no matter how challenging the day, I get up and live it."*
+*"You show your worth by what you seek."*
 
-<sub>— Muhammad Ali</sub>
+<sub>— Rumi</sub>
 
 <br>
 </div>
