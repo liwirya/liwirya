@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"You show your worth by what you seek."*
+*"Educationists should build the capacities of the spirit of inquiry, creativity, entrepreneurial and moral leadership among students and become their role model."*
 
-<sub>— Rumi</sub>
+<sub>— Abdul Kalam</sub>
 
 <br>
 </div>
