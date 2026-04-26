@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Educationists should build the capacities of the spirit of inquiry, creativity, entrepreneurial and moral leadership among students and become their role model."*
+*"One Believes Others Will Do What He Will Do To Himself."*
 
-<sub>— Abdul Kalam</sub>
+<sub>— Victor Hugo</sub>
 
 <br>
 </div>
