@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"One Believes Others Will Do What He Will Do To Himself."*
+*"I Have Held Many Things In My Hands, And I Have Lost Them All; But Whatever I Have Placed In God'S Hands, That I Still Possess."*
 
-<sub>— Victor Hugo</sub>
+<sub>— Martin Luther</sub>
 
 <br>
 </div>
