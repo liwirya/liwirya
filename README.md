@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"I Have Held Many Things In My Hands, And I Have Lost Them All; But Whatever I Have Placed In God'S Hands, That I Still Possess."*
+*"Allah's the Arabic term for God. Stand up for God, fight for God, work for God and do the right thing, and go the right way, things will end up in your corner."*
 
-<sub>— Martin Luther</sub>
+<sub>— Muhammad Ali</sub>
 
 <br>
 </div>
