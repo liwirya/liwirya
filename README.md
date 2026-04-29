@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Allah's the Arabic term for God. Stand up for God, fight for God, work for God and do the right thing, and go the right way, things will end up in your corner."*
+*"Learning gives creativity. Creativity leads to thinking. Thinking provides knowledge. Knowledge makes you great."*
 
-<sub>— Muhammad Ali</sub>
+<sub>— Abdul Kalam</sub>
 
 <br>
 </div>
