@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Civilization Is The Limitless Multiplication Of Unnecessary Necessities."*
+*"Youth is not restored by the dyeing of your hair."*
 
-<sub>— Mark Twain</sub>
+<sub>— Abu Bakr (R.A)</sub>
 
 <br>
 </div>
