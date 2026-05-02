@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Youth is not restored by the dyeing of your hair."*
+*"Hope Is The Dream Of A Waking Man."*
 
-<sub>— Abu Bakr (R.A)</sub>
+<sub>— Aristotle</sub>
 
 <br>
 </div>
