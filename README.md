@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Hope Is The Dream Of A Waking Man."*
+*"Your souls are precious and can only be equal to the price of Paradise, therefore sell them only at that price."*
 
-<sub>— Aristotle</sub>
+<sub>— Ali ibn Abi Talib (R.A)</sub>
 
 <br>
 </div>
