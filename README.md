@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Your souls are precious and can only be equal to the price of Paradise, therefore sell them only at that price."*
+*"Never, Never, Never Give Up."*
 
-<sub>— Ali ibn Abi Talib (R.A)</sub>
+<sub>— Winston Churchill</sub>
 
 <br>
 </div>
