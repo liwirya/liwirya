@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Never, Never, Never Give Up."*
+*"In the matter of justice, all should be equal in your eyes."*
 
-<sub>— Winston Churchill</sub>
+<sub>— Abu Bakr (R.A)</sub>
 
 <br>
 </div>
