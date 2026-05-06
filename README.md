@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"In the matter of justice, all should be equal in your eyes."*
+*"Uneasy Lies The Head That Wears A Crown."*
 
-<sub>— Abu Bakr (R.A)</sub>
+<sub>— William Shakespeare</sub>
 
 <br>
 </div>
