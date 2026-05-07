@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Uneasy Lies The Head That Wears A Crown."*
+*"Design Is Not Just What It Looks Like And Feels Like. Design Is How It Works."*
 
-<sub>— William Shakespeare</sub>
+<sub>— Steve Jobs</sub>
 
 <br>
 </div>
