@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Design Is Not Just What It Looks Like And Feels Like. Design Is How It Works."*
+*"Nothing In Life Is To Be Feared, It Is Only To Be Understood. Now Is The Time To Understand More, So That We May Fear Less."*
 
-<sub>— Steve Jobs</sub>
+<sub>— Marie Curie</sub>
 
 <br>
 </div>
