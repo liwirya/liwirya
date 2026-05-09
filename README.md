@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Nothing In Life Is To Be Feared, It Is Only To Be Understood. Now Is The Time To Understand More, So That We May Fear Less."*
+*"Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known?"*
 
-<sub>— Marie Curie</sub>
+<sub>— William Shakespeare</sub>
 
 <br>
 </div>
