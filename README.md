@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known?"*
+*"Israel, As The Jewish State, Must Disappear From The Map."*
 
-<sub>— William Shakespeare</sub>
+<sub>— Ahmed Yassin</sub>
 
 <br>
 </div>
