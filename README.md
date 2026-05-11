@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Israel, As The Jewish State, Must Disappear From The Map."*
+*"One Believes Others Will Do What He Will Do To Himself."*
 
-<sub>— Ahmed Yassin</sub>
+<sub>— Victor Hugo</sub>
 
 <br>
 </div>
