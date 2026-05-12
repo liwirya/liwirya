@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"One Believes Others Will Do What He Will Do To Himself."*
+*"Live everyday as if it were your last because someday you're going to be right."*
 
-<sub>— Victor Hugo</sub>
+<sub>— Muhammad Ali</sub>
 
 <br>
 </div>
