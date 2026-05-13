@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Live everyday as if it were your last because someday you're going to be right."*
+*"There are three signs of a knowledgeable person: knowledge, forbearance and silence."*
 
-<sub>— Muhammad Ali</sub>
+<sub>— Ali ibn Abi Talib (R.A)</sub>
 
 <br>
 </div>
