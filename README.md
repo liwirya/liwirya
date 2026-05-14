@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"There are three signs of a knowledgeable person: knowledge, forbearance and silence."*
+*"Pure Mathematics Is, In Its Way, The Poetry Of Logical Ideas."*
 
-<sub>— Ali ibn Abi Talib (R.A)</sub>
+<sub>— Albert Einstein</sub>
 
 <br>
 </div>
