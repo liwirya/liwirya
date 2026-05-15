@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Pure Mathematics Is, In Its Way, The Poetry Of Logical Ideas."*
+*"The best deed of a great man is to forgive and forget."*
 
-<sub>— Albert Einstein</sub>
+<sub>— Ali ibn Abi Talib (R.A)</sub>
 
 <br>
 </div>
