@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"The best deed of a great man is to forgive and forget."*
+*"Those Who Dare To Fail Miserably Can Achieve Greatly."*
 
-<sub>— Ali ibn Abi Talib (R.A)</sub>
+<sub>— John F. Kennedy</sub>
 
 <br>
 </div>
