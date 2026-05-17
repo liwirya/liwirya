@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Those Who Dare To Fail Miserably Can Achieve Greatly."*
+*"Spread Love Everywhere You Go. Let No One Ever Come To You Without Leaving Happier."*
 
-<sub>— John F. Kennedy</sub>
+<sub>— Mother Teresa</sub>
 
 <br>
 </div>
