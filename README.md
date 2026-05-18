@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Spread Love Everywhere You Go. Let No One Ever Come To You Without Leaving Happier."*
+*"When I Hear A Man Preach, I Like To See Him Act As If He Were Fighting Bees."*
 
-<sub>— Mother Teresa</sub>
+<sub>— Abraham Lincoln</sub>
 
 <br>
 </div>
