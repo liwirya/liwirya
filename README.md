@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"When I Hear A Man Preach, I Like To See Him Act As If He Were Fighting Bees."*
+*"Happiness Is That State Of Consciousness Which Proceeds From The Achievement Of One'S Values."*
 
-<sub>— Abraham Lincoln</sub>
+<sub>— Ayn Rand</sub>
 
 <br>
 </div>
