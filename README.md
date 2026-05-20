@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Happiness Is That State Of Consciousness Which Proceeds From The Achievement Of One'S Values."*
+*"Without Freedom, No Art; Art Lives Only On The Restraints It Imposes On Itself, And Dies Of All Others."*
 
-<sub>— Ayn Rand</sub>
+<sub>— Albert Camus</sub>
 
 <br>
 </div>
