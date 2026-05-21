@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Without Freedom, No Art; Art Lives Only On The Restraints It Imposes On Itself, And Dies Of All Others."*
+*"The Educated Southerner Has No Use For An 'R', Except At The Beginning Of A Word."*
 
-<sub>— Albert Camus</sub>
+<sub>— Mark Twain</sub>
 
 <br>
 </div>
