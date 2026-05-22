@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"The Educated Southerner Has No Use For An 'R', Except At The Beginning Of A Word."*
+*"India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system."*
 
-<sub>— Mark Twain</sub>
+<sub>— Abdul Kalam</sub>
 
 <br>
 </div>
