@@ -50,7 +50,7 @@
 <div align="center">
 <br>
 
-*"India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system."*
+*"While children are struggling to be unique, the world around them is trying all means to make them look like everybody else."*
 
 <sub>— Abdul Kalam</sub>
 
