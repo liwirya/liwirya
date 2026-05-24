@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"While children are struggling to be unique, the world around them is trying all means to make them look like everybody else."*
+*"He who builds a masjid in the way of Allah, God will build a house for him in the paradise."*
 
-<sub>— Abdul Kalam</sub>
+<sub>— Abu Bakr (R.A)</sub>
 
 <br>
 </div>
