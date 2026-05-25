@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"He who builds a masjid in the way of Allah, God will build a house for him in the paradise."*
+*"At Times One Remains Faithful To A Cause Only Because Its Opponents Do Not Cease To Be Insipid."*
 
-<sub>— Abu Bakr (R.A)</sub>
+<sub>— Friedrich Nietzsche</sub>
 
 <br>
 </div>
