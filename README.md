@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"At Times One Remains Faithful To A Cause Only Because Its Opponents Do Not Cease To Be Insipid."*
+*"There's nothing stressful about turning 50 except people reminding you about it."*
 
-<sub>— Friedrich Nietzsche</sub>
+<sub>— Muhammad Ali</sub>
 
 <br>
 </div>
