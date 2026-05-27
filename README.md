@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"There's nothing stressful about turning 50 except people reminding you about it."*
+*"I Have Held Many Things In My Hands, And I Have Lost Them All; But Whatever I Have Placed In God'S Hands, That I Still Possess."*
 
-<sub>— Muhammad Ali</sub>
+<sub>— Martin Luther</sub>
 
 <br>
 </div>
