@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"I Have Held Many Things In My Hands, And I Have Lost Them All; But Whatever I Have Placed In God'S Hands, That I Still Possess."*
+*"Close your eyes, fall in Love, stay there."*
 
-<sub>— Martin Luther</sub>
+<sub>— Rumi</sub>
 
 <br>
 </div>
