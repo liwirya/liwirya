@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Close your eyes, fall in Love, stay there."*
+*"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say."*
 
-<sub>— Rumi</sub>
+<sub>— Umar ibn Al-Khattāb (R.A)</sub>
 
 <br>
 </div>
