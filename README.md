@@ -50,7 +50,7 @@
 <div align="center">
 <br>
 
-*"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say."*
+*"May Allah have mercy on him who sends me my faults as a present."*
 
 <sub>— Umar ibn Al-Khattāb (R.A)</sub>
 
