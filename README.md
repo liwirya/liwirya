@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"May Allah have mercy on him who sends me my faults as a present."*
+*"Words are a pretext. It is the inner bond that draws one person to another, not words."*
 
-<sub>— Umar ibn Al-Khattāb (R.A)</sub>
+<sub>— Rumi</sub>
 
 <br>
 </div>
