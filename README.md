@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Words are a pretext. It is the inner bond that draws one person to another, not words."*
+*"An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last."*
 
-<sub>— Rumi</sub>
+<sub>— Winston Churchill</sub>
 
 <br>
 </div>
