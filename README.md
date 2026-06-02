@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last."*
+*"Everything in the universe is within you. Ask all from yourself."*
 
-<sub>— Winston Churchill</sub>
+<sub>— Rumi</sub>
 
 <br>
 </div>
