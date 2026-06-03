@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Everything in the universe is within you. Ask all from yourself."*
+*"Things May Come To Those Who Wait, But Only The Things Left By Those Who Hustle."*
 
-<sub>— Rumi</sub>
+<sub>— Abraham Lincoln</sub>
 
 <br>
 </div>
