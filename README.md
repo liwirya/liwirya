@@ -50,7 +50,7 @@
 <div align="center">
 <br>
 
-*"Things May Come To Those Who Wait, But Only The Things Left By Those Who Hustle."*
+*"I Will Prepare And Some Day My Chance Will Come."*
 
 <sub>— Abraham Lincoln</sub>
 
