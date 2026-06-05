@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"I Will Prepare And Some Day My Chance Will Come."*
+*"Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around."*
 
-<sub>— Abraham Lincoln</sub>
+<sub>— Abdul Kalam</sub>
 
 <br>
 </div>
