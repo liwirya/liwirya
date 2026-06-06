@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around."*
+*"Be melting snow. Wash yourself of yourself."*
 
-<sub>— Abdul Kalam</sub>
+<sub>— Rumi</sub>
 
 <br>
 </div>
