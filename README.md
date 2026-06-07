@@ -1,70 +1,74 @@
 <div align="center">
 
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=450&lines=Hi!+I'm+Wira+Liwirya;Network+%26+Back-End+Dev;Coffee+Lover" alt="Typing SVG" />
-  </a>  
-  <img src="https://files.catbox.moe/ssfhfx.jpg" width="28%" align="right" style="border-radius: 15px; margin-left: 20px; margin-bottom: 20px;" alt="Profile Pic" />
-</div>
+<img src="https://files.catbox.moe/ssfhfx.jpg" width="25%" align="right" style="border-radius: 15px; margin-left: 20px;" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Hi!+I'm+Wira+Liwirya;Network+%26+Back-End+Dev;Coffee+Lover" width="70%" />
 
-<p align="left">
-  <code>📍 Indonesia • High School Student</code><br>
-  <code>🐧 OS: Ubuntu, Debian, & Linux</code><br>
-  <code>⚡ "Learning by Doing"</code>
-</p>
+<br><br>
 
-<p align="left">
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-232323?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/Express.js-232323?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-232323?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-232323?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
-  </a>
-  <a href="https://www.debian.org/">
-    <img src="https://img.shields.io/badge/Debian-232323?style=flat-square&logo=debian&logoColor=A80030" alt="Debian" />
-  </a>
-  <a href="https://www.kernel.org/">
-    <img src="https://img.shields.io/badge/Linux-232323?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-232323?style=flat-square&logo=cplusplus&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-232323?style=flat-square&logo=javascript&logoColor=white" />
-  </a>
-</p>
+<pre>
+    📍 Indonesia • High School Student
+    🐧 OS: Ubuntu
+    ⚡ "Learning by Doing"
+</pre>
+<br><br>
+
+[![](https://img.shields.io/badge/JavaScript-2d2d2d?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/C%2B%2B-2d2d2d?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![](https://img.shields.io/badge/Node.js-2d2d2d?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![](https://img.shields.io/badge/Express.js-2d2d2d?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![](https://img.shields.io/badge/Python-2d2d2d?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/Ubuntu-2d2d2d?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
 
 </div>
-
-<br clear="all">
 
 ---
 
-<!-- MOTIVATION:START -->
+```javascript
+  /*    
+      ウィラ リウィリヤ
+      ─────────────
+      "The sweetness of life lies in dispensing with formalities."
+      — Muhammad Ali
+  */
+
+(async () => {
+  const identity = {
+    name: "wira liwirya",
+    role: "network & back-end developer",
+    location: "Indonesia",
+    timezone: "Asia/Jakarta"
+  };
+
+  const stack = {
+    languages: ["javascript", "python", "c++"],
+    backend: ["node.js", "express.js"],
+    environments: ["ubuntu"]
+  };
+
+  const currentStatus = {
+    motto: "Learning by Doing",
+    status: "active (when coffee kicks in)",
+    input: "coffee",
+    output: "code & logic"
+  };
+
+  console.log("Error: System overloaded with pure caffeine.");
+
+  await new Promise(r => setTimeout(r, 300));
+})();
+
+```
 <div align="center">
-<br>
-
-*"The sweetness of life lies in dispensing with formalities."*
-
-<sub>— Muhammad Ali</sub>
-
-<br>
-</div>
-<!-- MOTIVATION:END -->
-
----
-
-<div align="center">
-<p>🔥 Stats 🔥</p>
+<p>🔥 Activity Graph 🔥</p>
 <a href="https://github.com/liwirya">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=liwirya&theme=tokyo-night&hide_border=false" alt="Liwirya's activity graph" />
 </a>
-
-<sub>© 2026 Liwirya.</sub>
+<a href="https://github.com/liwirya">
+<img src="https://img.shields.io/badge/open--source-2d2d2d?style=flat-square&labelColor=2d2d2d&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=liwirya&color=2d2d2d&style=flat-square&label=visitors" />
+<img src="https://img.shields.io/github/followers/liwirya?color=2d2d2d&style=flat-square&label=followers" />
+<img src="https://img.shields.io/github/stars/liwirya?color=2d2d2d&style=flat-square&label=stars" />
+<br>
+<sub>© 2026 Liwirya</sub>
 </div>
