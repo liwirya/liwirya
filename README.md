@@ -53,12 +53,6 @@
     software: ["windows", "ubuntu (database / server project)"]
   };
 
-  const current = {
-    project: "backend & database deployment",
-    status: "active (when coffee kicks in)",
-    stack: ["node.js", "mongodb", "ubuntu"]
-  };
-
   console.log("Error: System overloaded with pure caffeine.");
 
   await new Promise(r => setTimeout(r, 300));
