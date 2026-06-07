@@ -36,7 +36,7 @@
 (async () => {
   const identity = {
     name: "wira liwirya",
-    born: new Date(2009, 0, 1), // Sesuaiin sendiri kesini (Tahun, Bulan-1, Tanggal)
+    born: new Date(2010, 10, 22), 
     get age() {
       const now = new Date();
       return now.getFullYear() - this.born.getFullYear();
@@ -70,7 +70,6 @@
 ​<a href="https://github.com/liwirya">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=liwirya&theme=tokyo-night&hide_border=false" alt="Liwirya's activity graph" />
 </a>
-​<!-- METRICS BADGES -->
 <a href="https://github.com/liwirya">
 <img src="https://img.shields.io/badge/open--source-2d2d2d?style=flat-square&labelColor=2d2d2d&logo=github&logoColor=white" />
 </a>
