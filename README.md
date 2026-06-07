@@ -50,9 +50,9 @@
 <div align="center">
 <br>
 
-*"Be melting snow. Wash yourself of yourself."*
+*"The sweetness of life lies in dispensing with formalities."*
 
-<sub>— Rumi</sub>
+<sub>— Muhammad Ali</sub>
 
 <br>
 </div>
