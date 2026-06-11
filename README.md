@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/ssfhfx.jpg" width="25%" align="right" style="border-radius: 15px; margin-left: 20px;" />
+<img src="https://files.catbox.moe/nkehbj.jpg" width="25%" align="right" style="border-radius: 15px; margin-left: 20px;" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Hi!+I'm+Wira+Liwirya;Network+%26+Back-End+Dev;Coffee+Lover" width="70%" />
 
 <br><br>
@@ -28,9 +28,6 @@
 ```javascript
   /*    
       ウィラ リウィリヤ
-      ─────────────
-      "The sweetness of life lies in dispensing with formalities."
-      — Muhammad Ali
   */
 
 (async () => {
@@ -50,7 +47,7 @@
     runtime: "node.js",
     database: ["mongodb", "firebase"],
     tools: ["git", "terminal"],
-    software: ["windows", "ubuntu (database / server project)"]
+    software: ["windows", "ubuntu (server)"]
   };
 
   console.log("Error: System overloaded with pure caffeine.");
@@ -62,7 +59,7 @@
 <div align="center">
 ​<p>🔥 Activity Graph 🔥</p>
 ​<a href="https://github.com/liwirya">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liwirya&theme=tokyo-night&hide_border=false" alt="Liwirya's activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=liwirya&theme=tokyo-night&hide_border=false" alt="Liwirya's activity graph" 
 </a>
 <a href="https://github.com/liwirya">
 <img src="https://img.shields.io/badge/open--source-2d2d2d?style=flat-square&labelColor=2d2d2d&logo=github&logoColor=white" />
